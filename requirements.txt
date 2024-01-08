@@ -1,0 +1,4 @@
+NumPy version: 1.26.2
+Matplotlib version: 3.8.1
+OpenCV version: 4.9.0
+IPython version: 8.15.0
