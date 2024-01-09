@@ -28,10 +28,10 @@ Anantadi Advertisement Insertion with Occlusion Handling is an advanced computer
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/bikashparamanik/Anantadi_Advertisement-Insertion-with-Occlusion-Handling.git
+   git clone https://github.com/sparky-abhik06/Image-watermark-overlay-on-Video
 2. **Navigate to the project directory:**
     ```bash
-    cd Advertisement-Insertion-with-Occlusion-Handling
+    cd Image-watermark-overlay-on-Video
 2. **Install the required dependencies:**
     ```bash
     pip install -r requirements.txt
