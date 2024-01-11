@@ -1,7 +1,7 @@
 # Anantadi Advertisement Insertion with Occlusion Handling
 
 <div align="center">
-  <img src=https://github.com/sparky-abhik06/Image-watermark-overlay-on-Video/blob/main/Advertisement%20Image.jpg alt="Advertising Logo" width="300">
+  <img src=https://github.com/sparky-abhik06/Image-watermark-overlay-on-Video/blob/main/Output_Frame.png alt="Output Frame" width="300">
 </div>
 
 ## Overview
